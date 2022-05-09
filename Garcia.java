@@ -8,10 +8,11 @@ public class Garcia implements FinalProject{
     
     public void begin()
     {
-
+        String input;
+        
         System.out.print("Input a string, and I'll make it easy for a dizzy mirror to read it. (Enter to quit): ");
      
-        String input = Itse2417Main.myScan.nextLine();
+        input = Itse2417Main.myScan.nextLine();
 
         System.out.println();
         
