@@ -46,6 +46,13 @@ public class Garcia implements FinalProject{
                 System.out.println();
 
                 System.out.println(".emoclew er'uoY");
+        
+        try
+        {
+            java.util.concurrent.TimeUnit.SECONDS.sleep(2);  
+        }
+        catch(InterruptedException e)
+        {}
     }
     
 }
