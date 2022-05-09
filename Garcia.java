@@ -1,7 +1,7 @@
 
-public class FinalProject_Jannett implements FinalProject{
+public class Garcia implements FinalProject{
     
-    public FinalProject_Jannett()
+    public Garcia()
     {
         
     }
