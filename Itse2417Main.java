@@ -48,7 +48,7 @@ public class Itse2417Main
         Arrays.asList(   
             new FinalProj(),          // Bacon 
             new FinalProj(),          // Conzelman  
-            new FinalProject_Jannett(),  // Garcia Tadeo
+            new Garcia(),             // Garcia Tadeo
             new FinalProj(),          // Gilhespy
             new FinalProj(),          // Hankins
             new FinalProj(),          // Hernandez
